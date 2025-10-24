@@ -55,6 +55,12 @@ npm start
 docker build -t calculator-app .  
 ```
 
+### Run Container
+
+```
+docker run -d -p 3000:3000 calculator-app  
+```
+
 ## Running Tests
 ```bash
 # Run all tests with coverage

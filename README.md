@@ -48,6 +48,13 @@ npm run dev
 npm start
 ```
 
+## Docker Instalation
+
+### Build Image
+```
+docker build -t calculator-app .  
+```
+
 ## Running Tests
 ```bash
 # Run all tests with coverage

@@ -117,6 +117,3 @@ The application includes:
 - **Unit Tests**: Test individual functions in isolation
 - **Integration Tests**: Test API endpoints end-to-end
 - **Coverage Report**: View in `coverage/` folder after running tests
-
-
-
